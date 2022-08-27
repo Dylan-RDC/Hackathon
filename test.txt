@@ -13,7 +13,7 @@ Scrap_metal,1
 Quota=2,1,0 
 Quota_multiplier=2
 
-map_size=3x5
+map_size=3,5
 S,S,I,I,I
 S,S,TS,TS,M
 S,M,TS,S,S
